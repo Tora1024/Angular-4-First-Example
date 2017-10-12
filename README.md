@@ -1,3 +1,3 @@
-# CryptoMonitor
+# Angular 4 First Example
 
-A simple angular example, taking an API for analyze cryptocurrencies
+A simple angular example, simulating a store with items and their descriptions
